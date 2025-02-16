@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="i will fall inlove.mp4" alt="love">
-
+![love](https://streamable.com/13uq1s)
 
 <!---
 valentineserenade/valentineserenade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
