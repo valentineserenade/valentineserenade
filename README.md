@@ -1,8 +1,7 @@
 <div align="center">
 
-![love](https://streamable.com/13uq1s)
-
-<vid src="i will fall in love" alt="THAT DUDE">
+let vid = document.getElementById("in love");
+vid.src = "i will fall in love";
 
 
 <!---
