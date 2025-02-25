@@ -1,14 +1,26 @@
+<!-- skibidi -->
+
+$\color{#8f7dad}{\textbf{no me mires con esos ojos}}$
+
+<p align="right">
+$\color{#ca959d}{\textbf{que me, me deslumbras, me derrumbas}}$
+
+<p align="center">
+<img src="the wife.png" alt="me and wife">
+
+<p align="center">
+$\color{#ca959d}{\textbf{me}}$ $\color{#9895ca}{\textbf{and da}}$ $\color{#8f7dad}{\textbf{wife}}$
+
+<p align="center">
+$\color{#cde9ea}{\textbf{ISNT SHE SO CUTIE PATOOTIE!!!}}$ 
+
 <div align="center">
 
-$\color{#f6d5e3}{\textbf{..oh, what a waste of army dreamers..}}$
+[da wife link](https://github.com/your-reader)
 
-![Image](https://github.com/user-attachments/assets/d9074522-76af-49a0-84f6-b8f34ef99e15)
 
-$\color{#aa72c4}{\textbf{what could he do?}}$
 
-[<video src="i will fall in love.mp4" controls></video>](https://github.com/user-attachments/assets/7d67a64f-de9f-45f7-8e4f-36efef534f4f)
-
-ill upload my joongdok version soon. just rlly busy rn,
+<img src="that dude.png" alt="THAT DUDE">
 
 
 
