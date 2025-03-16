@@ -2,17 +2,20 @@
 
 $\color{#8f7dad}{\textbf{no me mires con esos ojos}}$
 
-<p align="right">
-$\color{#ca959d}{\textbf{que me, me deslumbras, me derrumbas}}$
+<p align="center">
+$\color{#c17852}{\textbf{i hate them sm}}$
 
 <p align="center">
-<img src="the wife.png" alt="me and wife">
+<img src="foryou.png" alt="me and wife">
 
 <p align="center">
-$\color{#ca959d}{\textbf{me}}$ $\color{#9895ca}{\textbf{and da}}$ $\color{#8f7dad}{\textbf{wife}}$
+$\color{#6db6a0}{\textbf{me}}$ $\color{#b8e0d4}{\textbf{and the}}$ $\color{#6e81ba}{\textbf{husband}}$
 
 <p align="center">
-$\color{#cde9ea}{\textbf{ISNT SHE SO CUTIE PATOOTIE!!!}}$ 
+<img src="foryouaswell.png" alt="me and wife">
+
+<p align="center">
+$\color{#c17852}{\textbf{my husband is so cute >_<}}$ 
 
 <div align="center">
 
