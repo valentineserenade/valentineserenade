@@ -1,6 +1,6 @@
 <!-- skibidi -->
-
-$\color{#8f7dad}{\textbf{no me mires con esos ojos}}$
+<p align="center">
+$\color{#ddc863}{\textbf{t-shirt weather by circa waves}}$
 
 <p align="center">
 $\color{#c17852}{\textbf{i hate them sm}}$
