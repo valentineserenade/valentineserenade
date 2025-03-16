@@ -19,12 +19,6 @@ $\color{#c17852}{\textbf{my husband is so cute ..  !!!!}}$
 
 
 
-<div align="center">
-
-<img src="that dude.png" alt="THAT DUDE">
-
-
-
 <!---
 valentineserenade/valentineserenade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
