@@ -15,11 +15,12 @@ $\color{#6db6a0}{\textbf{me}}$ $\color{#b8e0d4}{\textbf{and the}}$ $\color{#6e81
 <img src="foryouaswell.png" alt="me and wife">
 
 <p align="center">
-$\color{#c17852}{\textbf{my husband is so cute >_<}}$ 
+$\color{#c17852}{\textbf{my husband is so cute ..  !!!!}}$ 
 
 <div align="center">
 
-[da wife link](https://github.com/your-reader)
+
+
 
 
 
